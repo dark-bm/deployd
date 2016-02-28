@@ -1,4 +1,4 @@
-emit('security/users:test_event', { 'this' : this });
+emit('security_users:test_event', { 'this' : this });
 
 
 if (ctx.body.authtoken == "$BAD_AUTH") cancel('bad auth');

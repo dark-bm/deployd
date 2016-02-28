@@ -1,1 +1,1 @@
-emit('security/users:changed');
+emit('security_users:changed');

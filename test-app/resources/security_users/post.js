@@ -1,1 +1,1 @@
-emit(dpd.securityusers, {admin:true}, 'security/users:created', {username: this.username} );
+emit(dpd.securityusers, {admin:true}, 'security_users:created', {username: this.username} );
