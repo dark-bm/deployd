@@ -1,0 +1,1 @@
+emit(dpd.securityusers, {admin:true}, 'security/users:created', {username: this.username} );
